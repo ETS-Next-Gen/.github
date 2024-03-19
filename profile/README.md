@@ -9,6 +9,6 @@ At the time of creation, it was approved for use for things which are not confid
 * Low-key collaborations with external partners
 * ... and similar
 
-In other words, it was designed as a place for low-stakes, half-baked projects which aren't secret, but which have also not reached the level of maturity to be placed in the main ETS github account. It supports both private and public repos, but private repos should also not contain anything confidential.
+It continues to serve a similar role: as a place for low-stakes, half-baked projects which aren't secret, but which have also not reached the level of maturity to be placed in the main ETS github account. It supports both private and public repos, but private repos should also not contain anything confidential.
 
 If projects reach a high level of maturity, and are intended for broader dissemination, or otherwise are intended to be high-visibility, they should move to the main, branded [ETS github account](https://github.com/EducationalTestingService). Internal projects, or ones which manage proprietary / confidential data should use the internal gitlab server. 
